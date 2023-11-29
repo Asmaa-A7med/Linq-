@@ -1,0 +1,15 @@
+C:\Users\asmaa\Desktop\.net track\Linq\firstLinq\firstLinq\bin\Debug\net6.0\firstLinq.exe
+C:\Users\asmaa\Desktop\.net track\Linq\firstLinq\firstLinq\bin\Debug\net6.0\firstLinq.deps.json
+C:\Users\asmaa\Desktop\.net track\Linq\firstLinq\firstLinq\bin\Debug\net6.0\firstLinq.runtimeconfig.json
+C:\Users\asmaa\Desktop\.net track\Linq\firstLinq\firstLinq\bin\Debug\net6.0\firstLinq.dll
+C:\Users\asmaa\Desktop\.net track\Linq\firstLinq\firstLinq\bin\Debug\net6.0\firstLinq.pdb
+C:\Users\asmaa\Desktop\.net track\Linq\firstLinq\firstLinq\obj\Debug\net6.0\firstLinq.csproj.AssemblyReference.cache
+C:\Users\asmaa\Desktop\.net track\Linq\firstLinq\firstLinq\obj\Debug\net6.0\firstLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asmaa\Desktop\.net track\Linq\firstLinq\firstLinq\obj\Debug\net6.0\firstLinq.AssemblyInfoInputs.cache
+C:\Users\asmaa\Desktop\.net track\Linq\firstLinq\firstLinq\obj\Debug\net6.0\firstLinq.AssemblyInfo.cs
+C:\Users\asmaa\Desktop\.net track\Linq\firstLinq\firstLinq\obj\Debug\net6.0\firstLinq.csproj.CoreCompileInputs.cache
+C:\Users\asmaa\Desktop\.net track\Linq\firstLinq\firstLinq\obj\Debug\net6.0\firstLinq.dll
+C:\Users\asmaa\Desktop\.net track\Linq\firstLinq\firstLinq\obj\Debug\net6.0\refint\firstLinq.dll
+C:\Users\asmaa\Desktop\.net track\Linq\firstLinq\firstLinq\obj\Debug\net6.0\firstLinq.pdb
+C:\Users\asmaa\Desktop\.net track\Linq\firstLinq\firstLinq\obj\Debug\net6.0\firstLinq.genruntimeconfig.cache
+C:\Users\asmaa\Desktop\.net track\Linq\firstLinq\firstLinq\obj\Debug\net6.0\ref\firstLinq.dll
